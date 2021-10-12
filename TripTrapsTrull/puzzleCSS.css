@@ -1,0 +1,44 @@
+#buttons {
+    background-color: aquamarine;
+    width: fit-content;
+    border: solid 1px blue;
+}
+
+#buttons img {
+    margin: auto;
+    width: 70px;
+}
+
+#field {
+    border: solid 1px blue;
+    position: absolute;
+    left: 400px;
+    top: 350px;
+}
+#field img {
+    width: 100px;
+    padding: -10px;
+}
+
+#end {
+    position: absolute;
+    left: 900px;
+    top: 150px;
+}
+
+#choice {
+    background-color: aquamarine;
+    border: solid 1px blue;
+    width: fit-content;
+    position: absolute;
+    top: 150px;
+    left: 495px;
+    text-align: center;
+}
+
+#choice img {
+    width: 120px;
+}
+
+
+
